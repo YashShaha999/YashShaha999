@@ -1,4 +1,4 @@
-
+![logo](https://github.com/YashShaha999/YashShaha999/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Yash Shaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
